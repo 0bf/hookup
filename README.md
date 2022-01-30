@@ -71,7 +71,7 @@ The ngrok URL publishes your local server to the internet. You can get your fake
 
 ## Author
 
-👤 **bufgix**
+👤 **ruin**
 
 * Website: http://ruin.vip
 * Twitter: [ruin#1337](https://discord.com/users/915698757478273115)
