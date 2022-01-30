@@ -1,11 +1,16 @@
 <h1 align="center">Welcome to Hookup 💻 </h1>
 <p>
   <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://cdn.discordapp.com/attachments/935662572814880848/937270823922827305/logo.png" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/bufgix" target="_blank">
+    <img alt="Twitter: bufgix" src="https://img.shields.io/twitter/follow/bufgix.svg?style=social" />
   </a>
 </p>
 
 > New generation phishing tool.
+
+<img alt="logo" src="./hookup/hookup-frontend/public/logo.svg"/>
 
 A phishing tool that is written in Python and VueJS
 
@@ -16,7 +21,7 @@ A phishing tool that is written in Python and VueJS
 Launch your terminal
 
 ```bash
-λ git clone https://github.com/0bf/hookup
+λ git clone https://github.com/bufgix/hookup
 λ cd hookup
 ```
 
@@ -34,7 +39,7 @@ Run phishing and GUI server. If you have never launched the program before, it w
 
 ```
 λ python run.py
-Username: ruin
+Username: bufgix
 Password
 [+] Done
  * Serving Flask app "hookup" (lazy loading)
@@ -70,11 +75,11 @@ The ngrok URL publishes your local server to the internet. You can get your fake
 
 ## Author
 
-👤 **ruin**
+👤 **bufgix**
 
-* Website: http://ruin.vip
-* Twitter: [ruin#1337](https://discord.com/users/915698757478273115)
-* Github: [@0bf](https://github.com/0bf)
+* Website: http://bufgix.space
+* Twitter: [@bufgix](https://twitter.com/bufgix)
+* Github: [@bufgix](https://github.com/bufgix)
 
 ## Show your support
 
